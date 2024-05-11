@@ -1,0 +1,135 @@
+2024-05-11 00:01:22.247 [info] Nível de log: Info
+2024-05-11 00:01:22.247 [info] Validando o git encontrado em: git
+2024-05-11 00:01:22.247 [info] Usando git ''2.34.1'' de ''git''
+2024-05-11 00:01:22.247 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-11 00:01:22.247 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.247 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-11 00:01:22.247 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-05-11 00:01:22.247 [info] Open repository: /home/matheuspedroso5931/Tests
+2024-05-11 00:01:22.247 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-11 00:01:22.247 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.247 [info] > git config --get commit.template [25ms]
+2024-05-11 00:01:22.247 [info] No remotes found in the git config file.
+2024-05-11 00:01:22.247 [info] > git rev-parse --show-toplevel [33ms]
+2024-05-11 00:01:22.247 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2024-05-11 00:01:22.247 [info] > git rev-parse --show-toplevel [14ms]
+2024-05-11 00:01:22.247 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.263 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-11 00:01:22.263 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.277 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-11 00:01:22.277 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.291 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-11 00:01:22.291 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.301 [info] > git status -z -uall [57ms]
+2024-05-11 00:01:22.328 [info] > git rev-parse --show-toplevel [28ms]
+2024-05-11 00:01:22.328 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.369 [info] > git config --get commit.template [45ms]
+2024-05-11 00:01:22.370 [info] > git rev-parse --show-toplevel [33ms]
+2024-05-11 00:01:22.371 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:01:22.380 [info] No remotes found in the git config file.
+2024-05-11 00:01:22.382 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-11 00:01:22.431 [info] > git status -z -uall [40ms]
+2024-05-11 00:01:22.513 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-11 00:01:22.513 [info] fatal: your current branch 'master' does not have any commits yet
+2024-05-11 00:01:25.057 [info] > git check-ignore -v -z --stdin [2183ms]
+2024-05-11 00:01:25.060 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-11 00:01:25.079 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-05-11 00:01:25.084 [info] Open repository: /home/matheuspedroso5931/Tests/test/bats
+2024-05-11 00:01:25.124 [info] > git config --get commit.template [18ms]
+2024-05-11 00:01:25.127 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-11 00:01:25.205 [info] > git show --textconv :2_soma_tres_numero.bash [22ms]
+2024-05-11 00:01:25.205 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [5ms]
+2024-05-11 00:01:25.207 [info] > git rev-parse --git-dir --git-common-dir [44ms]
+2024-05-11 00:01:25.215 [info] Open repository: /home/matheuspedroso5931/Tests/test/test_helper/bats-support
+2024-05-11 00:01:25.216 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [70ms]
+2024-05-11 00:01:25.327 [info] > git status -z -uall [92ms]
+2024-05-11 00:01:25.328 [info] > git rev-parse --show-toplevel [51ms]
+2024-05-11 00:01:25.328 [info] > git config --get commit.template [68ms]
+2024-05-11 00:01:25.412 [info] > git rev-parse --git-dir --git-common-dir [59ms]
+2024-05-11 00:01:25.423 [info] Open repository: /home/matheuspedroso5931/Tests/test/test_helper/bats-assert
+2024-05-11 00:01:25.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [77ms]
+2024-05-11 00:01:25.522 [info] > git config --get commit.template [152ms]
+2024-05-11 00:01:25.553 [info] > git status -z -uall [32ms]
+2024-05-11 00:01:25.554 [info] > git rev-parse --show-toplevel [77ms]
+2024-05-11 00:01:25.554 [info] > git config --get commit.template [105ms]
+2024-05-11 00:01:25.689 [info] > git rev-parse --git-dir --git-common-dir [99ms]
+2024-05-11 00:01:25.696 [info] Open repository: /home/matheuspedroso5931/Tests/test/test_helper/bats-files
+2024-05-11 00:01:25.698 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [146ms]
+2024-05-11 00:01:25.767 [info] > git config --get commit.template [102ms]
+2024-05-11 00:01:25.767 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [129ms]
+2024-05-11 00:01:25.827 [info] > git status -z -uall [106ms]
+2024-05-11 00:01:25.828 [info] > git status -z -uall [34ms]
+2024-05-11 00:01:25.838 [info] > git config --get commit.template [74ms]
+2024-05-11 00:01:25.898 [info] > git check-ignore -v -z --stdin [74ms]
+2024-05-11 00:01:25.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [58ms]
+2024-05-11 00:01:25.961 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+2024-05-11 00:01:25.992 [info] > git config --get commit.template [94ms]
+2024-05-11 00:01:26.025 [info] > git status -z -uall [72ms]
+2024-05-11 00:01:26.026 [info] > git status -z -uall [34ms]
+2024-05-11 00:01:26.035 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-05-11 00:01:26.099 [info] > git status -z -uall [40ms]
+2024-05-11 00:01:26.108 [info] > git config --get commit.template [10ms]
+2024-05-11 00:01:26.137 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-11 00:01:26.313 [info] > git status -z -uall [147ms]
+2024-05-11 00:01:26.680 [info] > git check-ignore -v -z --stdin [83ms]
+2024-05-11 00:20:08.560 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- /home/matheuspedroso5931/Tests/7_formula_bhaskara.bash [6ms]
+2024-05-11 00:20:08.560 [info] fatal: your current branch 'master' does not have any commits yet
+2024-05-11 00:20:08.865 [info] > git show --textconv :7_formula_bhaskara.bash [18ms]
+2024-05-11 00:20:08.868 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/7_formula_bhaskara.bash [4ms]
+2024-05-11 00:20:11.231 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [7ms]
+2024-05-11 00:20:11.231 [info] fatal: your current branch 'master' does not have any commits yet
+2024-05-11 00:20:11.448 [info] > git show --textconv :6_recebe_numero_tabuada.bash [18ms]
+2024-05-11 00:20:11.450 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [4ms]
+2024-05-11 00:20:16.982 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-11 00:20:16.983 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:20:16.999 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-11 00:20:16.999 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:20:17.622 [info] > git check-ignore -v -z --stdin [70ms]
+2024-05-11 00:20:17.623 [info] > git check-ignore -v -z --stdin [57ms]
+2024-05-11 00:20:17.623 [info] > git check-ignore -v -z --stdin [39ms]
+2024-05-11 00:20:17.624 [info] > git check-ignore -v -z --stdin [22ms]
+2024-05-11 00:20:17.624 [info] > git check-ignore -v -z --stdin [6ms]
+2024-05-11 00:20:19.528 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-11 00:20:19.528 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-11 00:20:22.936 [info] > git -c user.useConfigOnly=true commit --quiet [5ms]
+2024-05-11 00:20:22.937 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2024-05-11 00:20:22.953 [info] > git config --get-all user.name [2ms]
+2024-05-11 00:20:22.984 [info] No remotes found in the git config file.
+2024-05-11 00:20:22.985 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-11 00:20:22.986 [info] > git config --get commit.template [18ms]
+2024-05-11 00:20:23.040 [info] > git status -z -uall [35ms]
+2024-05-11 00:20:24.348 [info] No remotes found in the git config file.
+2024-05-11 00:20:24.349 [info] > git config --get commit.template [16ms]
+2024-05-11 00:20:24.352 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-11 00:20:24.402 [info] > git status -z -uall [34ms]
+2024-05-11 00:21:08.617 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-11 00:21:11.281 [info] > git check-ignore -v -z --stdin [3ms]
+2024-05-11 00:21:13.515 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-11 00:21:15.691 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-11 00:21:17.492 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-11 00:21:18.351 [info] > git check-ignore -v -z --stdin [2ms]

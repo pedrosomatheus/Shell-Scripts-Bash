@@ -1,0 +1,739 @@
+2024-05-10 22:11:39.312 [info] Nível de log: Info
+2024-05-10 22:11:39.312 [info] Validando o git encontrado em: git
+2024-05-10 22:11:39.312 [info] Usando git ''2.34.1'' de ''git''
+2024-05-10 22:11:39.312 [info] > git rev-parse --show-toplevel [54ms]
+2024-05-10 22:11:39.312 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:11:39.312 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:11:39.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:11:39.313 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-10 22:11:39.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:11:39.313 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:11:39.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:11:39.313 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:11:39.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:11:39.313 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-10 22:11:39.313 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:11:43.216 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:11:43.216 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:12:25.715 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-10 22:12:25.715 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:15:28.566 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:15:28.566 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:16:16.784 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:16:16.784 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:16:31.035 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:16:31.035 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:16:38.501 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:16:38.502 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:21:41.836 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:21:41.836 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:21:47.737 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:21:47.737 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:25:13.669 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:25:13.670 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:27:13.363 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:27:13.364 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:27:26.800 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:27:26.800 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:29:06.927 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:29:06.927 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:29:28.968 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:29:28.969 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:29:31.439 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:29:31.439 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:29:40.229 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:29:40.229 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:29:43.592 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:29:43.592 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:31:49.625 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:31:49.625 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:33:04.188 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:33:04.188 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:33:20.798 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:33:20.798 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:33:29.503 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:33:29.503 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:33:35.016 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:33:35.017 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:33:36.134 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:33:36.134 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:33:42.440 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:33:42.440 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:34:11.354 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:34:11.354 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:34:20.510 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-10 22:34:20.510 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:41:55.136 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:41:55.136 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:54:02.322 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:54:02.322 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:54:40.219 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:54:40.219 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:57:01.110 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 22:57:01.110 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 22:58:47.311 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 22:58:47.311 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:01:39.338 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 23:01:39.338 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:03:26.580 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 23:03:26.580 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:05:48.384 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:05:48.402 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-05-10 23:05:48.416 [info] Open repository: /home/matheuspedroso5931/Tests
+2024-05-10 23:05:48.452 [info] > git config --get commit.template [15ms]
+2024-05-10 23:05:48.453 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 23:05:48.468 [info] No remotes found in the git config file.
+2024-05-10 23:05:48.484 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-05-10 23:05:48.505 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2024-05-10 23:05:48.511 [info] Open repository: /home/matheuspedroso5931/Tests/test/test_helper/bats-assert
+2024-05-10 23:05:48.557 [info] > git status -z -uall [55ms]
+2024-05-10 23:05:48.558 [info] > git config --get commit.template [23ms]
+2024-05-10 23:05:48.588 [info] > git rev-parse --show-toplevel [32ms]
+2024-05-10 23:05:48.616 [info] > git config --get commit.template [29ms]
+2024-05-10 23:05:48.618 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-05-10 23:05:48.622 [info] Open repository: /home/matheuspedroso5931/Tests/test/test_helper/bats-files
+2024-05-10 23:05:48.624 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2024-05-10 23:05:48.652 [info] No remotes found in the git config file.
+2024-05-10 23:05:48.692 [info] > git status -z -uall [55ms]
+2024-05-10 23:05:48.692 [info] > git config --get commit.template [25ms]
+2024-05-10 23:05:48.692 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
+2024-05-10 23:05:48.760 [info] > git status -z -uall [54ms]
+2024-05-10 23:05:48.763 [info] > git config --get commit.template [25ms]
+2024-05-10 23:05:48.777 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-05-10 23:05:48.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-05-10 23:05:48.812 [info] > git status -z -uall [22ms]
+2024-05-10 23:05:48.843 [info] > git status -z -uall [34ms]
+2024-05-10 23:05:48.846 [info] > git config --get commit.template [11ms]
+2024-05-10 23:05:48.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-05-10 23:05:48.887 [info] > git status -z -uall [4ms]
+2024-05-10 23:05:49.280 [info] > git rev-parse --show-toplevel [0ms]
+2024-05-10 23:05:49.295 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-05-10 23:05:49.300 [info] Open repository: /home/matheuspedroso5931/Tests/test/bats
+2024-05-10 23:05:49.330 [info] > git config --get commit.template [15ms]
+2024-05-10 23:05:49.330 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:05:49.373 [info] > git check-ignore -v -z --stdin [16ms]
+2024-05-10 23:05:49.374 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2024-05-10 23:05:49.389 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2024-05-10 23:05:49.395 [info] Open repository: /home/matheuspedroso5931/Tests/test/test_helper/bats-support
+2024-05-10 23:05:49.418 [info] > git status -z -uall [30ms]
+2024-05-10 23:05:49.448 [info] > git config --get commit.template [33ms]
+2024-05-10 23:05:49.462 [info] > git config --get commit.template [17ms]
+2024-05-10 23:05:49.478 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-05-10 23:05:49.494 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-05-10 23:05:49.510 [info] > git status -z -uall [17ms]
+2024-05-10 23:05:49.579 [info] > git status -z -uall [71ms]
+2024-05-10 23:05:49.579 [info] > git show --textconv :1_metade_numero.bash [34ms]
+2024-05-10 23:05:49.579 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/1_metade_numero.bash [17ms]
+2024-05-10 23:05:49.584 [info] > git config --get commit.template [7ms]
+2024-05-10 23:05:49.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:05:49.616 [info] > git status -z -uall [3ms]
+2024-05-10 23:05:49.963 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:05:53.995 [info] > git check-ignore -v -z --stdin [16ms]
+2024-05-10 23:05:53.996 [info] > git check-ignore -v -z --stdin [3ms]
+2024-05-10 23:05:55.967 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:06:01.179 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:07:22.834 [info] > git check-ignore -v -z --stdin [34ms]
+2024-05-10 23:07:22.835 [info] > git check-ignore -v -z --stdin [20ms]
+2024-05-10 23:07:22.836 [info] > git check-ignore -v -z --stdin [4ms]
+2024-05-10 23:07:26.453 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:07:27.789 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:07:29.484 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:07:34.194 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-10 23:07:37.556 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:07:44.961 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:07:45.256 [info] > git show --textconv :test/1_metade_numero.bash [18ms]
+2024-05-10 23:07:45.258 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/test/1_metade_numero.bash [4ms]
+2024-05-10 23:07:46.014 [info] No remotes found in the git config file.
+2024-05-10 23:07:46.015 [info] > git config --get commit.template [17ms]
+2024-05-10 23:07:46.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:07:46.066 [info] > git status -z -uall [36ms]
+2024-05-10 23:07:55.775 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:07:55.775 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:08:02.123 [info] > git show --textconv :test/1_metade_numero.bash [17ms]
+2024-05-10 23:08:02.125 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/test/1_metade_numero.bash [3ms]
+2024-05-10 23:11:49.007 [info] No remotes found in the git config file.
+2024-05-10 23:11:49.008 [info] > git config --get commit.template [17ms]
+2024-05-10 23:11:49.009 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:11:49.058 [info] > git status -z -uall [34ms]
+2024-05-10 23:12:00.096 [info] No remotes found in the git config file.
+2024-05-10 23:12:00.098 [info] > git config --get commit.template [16ms]
+2024-05-10 23:12:00.098 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:12:00.147 [info] > git status -z -uall [36ms]
+2024-05-10 23:12:05.181 [info] No remotes found in the git config file.
+2024-05-10 23:12:05.182 [info] > git config --get commit.template [17ms]
+2024-05-10 23:12:05.182 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:12:05.231 [info] > git status -z -uall [35ms]
+2024-05-10 23:12:10.264 [info] No remotes found in the git config file.
+2024-05-10 23:12:10.265 [info] > git config --get commit.template [15ms]
+2024-05-10 23:12:10.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:12:10.314 [info] > git status -z -uall [34ms]
+2024-05-10 23:12:17.174 [info] No remotes found in the git config file.
+2024-05-10 23:12:17.175 [info] > git config --get commit.template [17ms]
+2024-05-10 23:12:17.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:12:17.225 [info] > git status -z -uall [35ms]
+2024-05-10 23:12:34.554 [info] > git config --get commit.template [2ms]
+2024-05-10 23:12:34.569 [info] No remotes found in the git config file.
+2024-05-10 23:12:34.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:12:34.619 [info] > git status -z -uall [34ms]
+2024-05-10 23:12:39.656 [info] No remotes found in the git config file.
+2024-05-10 23:12:39.657 [info] > git config --get commit.template [19ms]
+2024-05-10 23:12:39.660 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-10 23:12:39.710 [info] > git status -z -uall [35ms]
+2024-05-10 23:12:59.797 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n120 -- /home/matheuspedroso5931/Tests/test/1_metade_numero.bash [3ms]
+2024-05-10 23:12:59.797 [info] fatal: your current branch 'master' does not have any commits yet
+2024-05-10 23:13:31.247 [info] > git config --get commit.template [3ms]
+2024-05-10 23:13:31.262 [info] No remotes found in the git config file.
+2024-05-10 23:13:31.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:13:31.314 [info] > git status -z -uall [35ms]
+2024-05-10 23:13:36.347 [info] No remotes found in the git config file.
+2024-05-10 23:13:36.348 [info] > git config --get commit.template [16ms]
+2024-05-10 23:13:36.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:13:36.397 [info] > git status -z -uall [35ms]
+2024-05-10 23:13:46.018 [info] No remotes found in the git config file.
+2024-05-10 23:13:46.019 [info] > git config --get commit.template [17ms]
+2024-05-10 23:13:46.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:13:46.069 [info] > git status -z -uall [35ms]
+2024-05-10 23:13:51.104 [info] No remotes found in the git config file.
+2024-05-10 23:13:51.105 [info] > git config --get commit.template [17ms]
+2024-05-10 23:13:51.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:13:51.154 [info] > git status -z -uall [35ms]
+2024-05-10 23:13:56.191 [info] No remotes found in the git config file.
+2024-05-10 23:13:56.192 [info] > git config --get commit.template [17ms]
+2024-05-10 23:13:56.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:13:56.240 [info] > git status -z -uall [34ms]
+2024-05-10 23:16:10.274 [info] No remotes found in the git config file.
+2024-05-10 23:16:10.275 [info] > git config --get commit.template [16ms]
+2024-05-10 23:16:10.276 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:16:10.325 [info] > git status -z -uall [35ms]
+2024-05-10 23:17:19.008 [info] > git show --textconv :1_metade_numero.bash [18ms]
+2024-05-10 23:17:19.010 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/1_metade_numero.bash [4ms]
+2024-05-10 23:17:19.043 [info] No remotes found in the git config file.
+2024-05-10 23:17:19.044 [info] > git config --get commit.template [18ms]
+2024-05-10 23:17:19.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:17:19.096 [info] > git status -z -uall [36ms]
+2024-05-10 23:18:14.371 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:18:14.545 [info] > git show --textconv :2_soma_tres_numero.bash [18ms]
+2024-05-10 23:18:14.547 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-10 23:18:38.292 [info] No remotes found in the git config file.
+2024-05-10 23:18:38.295 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:18:38.295 [info] > git config --get commit.template [19ms]
+2024-05-10 23:18:38.346 [info] > git status -z -uall [36ms]
+2024-05-10 23:21:39.622 [info] > git show --textconv :1_metade_numero.bash [16ms]
+2024-05-10 23:21:39.623 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/1_metade_numero.bash [3ms]
+2024-05-10 23:22:58.752 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:22:58.752 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:23:34.879 [info] > git show --textconv :1_metade_numero.bash [17ms]
+2024-05-10 23:23:34.880 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/1_metade_numero.bash [3ms]
+2024-05-10 23:24:33.863 [info] > git show --textconv :2_soma_tres_numero.bash [17ms]
+2024-05-10 23:24:33.864 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-10 23:24:38.499 [info] > git config --get commit.template [2ms]
+2024-05-10 23:24:38.515 [info] No remotes found in the git config file.
+2024-05-10 23:24:38.516 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:24:38.568 [info] > git status -z -uall [36ms]
+2024-05-10 23:24:51.192 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:24:51.192 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:24:54.910 [info] > git show --textconv :2_soma_tres_numero.bash [18ms]
+2024-05-10 23:24:54.912 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [4ms]
+2024-05-10 23:25:04.575 [info] No remotes found in the git config file.
+2024-05-10 23:25:04.576 [info] > git config --get commit.template [16ms]
+2024-05-10 23:25:04.576 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:25:04.627 [info] > git status -z -uall [35ms]
+2024-05-10 23:25:11.868 [info] No remotes found in the git config file.
+2024-05-10 23:25:11.869 [info] > git config --get commit.template [17ms]
+2024-05-10 23:25:11.870 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:25:11.922 [info] > git status -z -uall [37ms]
+2024-05-10 23:25:19.604 [info] No remotes found in the git config file.
+2024-05-10 23:25:19.606 [info] > git config --get commit.template [16ms]
+2024-05-10 23:25:19.606 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:25:19.657 [info] > git status -z -uall [36ms]
+2024-05-10 23:25:33.699 [info] No remotes found in the git config file.
+2024-05-10 23:25:33.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:25:33.700 [info] > git config --get commit.template [19ms]
+2024-05-10 23:25:33.751 [info] > git status -z -uall [35ms]
+2024-05-10 23:25:39.664 [info] No remotes found in the git config file.
+2024-05-10 23:25:39.666 [info] > git config --get commit.template [18ms]
+2024-05-10 23:25:39.666 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:25:39.716 [info] > git status -z -uall [35ms]
+2024-05-10 23:25:48.155 [info] No remotes found in the git config file.
+2024-05-10 23:25:48.158 [info] > git config --get commit.template [18ms]
+2024-05-10 23:25:48.159 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:25:48.210 [info] > git status -z -uall [37ms]
+2024-05-10 23:25:53.249 [info] No remotes found in the git config file.
+2024-05-10 23:25:53.250 [info] > git config --get commit.template [20ms]
+2024-05-10 23:25:53.250 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:25:53.302 [info] > git status -z -uall [36ms]
+2024-05-10 23:25:58.338 [info] No remotes found in the git config file.
+2024-05-10 23:25:58.340 [info] > git config --get commit.template [16ms]
+2024-05-10 23:25:58.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:25:58.390 [info] > git status -z -uall [35ms]
+2024-05-10 23:29:30.648 [info] No remotes found in the git config file.
+2024-05-10 23:29:30.650 [info] > git config --get commit.template [16ms]
+2024-05-10 23:29:30.650 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:29:30.699 [info] > git status -z -uall [35ms]
+2024-05-10 23:29:52.576 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:29:52.576 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:29:58.907 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:29:58.908 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:30:05.405 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:30:05.405 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:30:56.798 [info] > git show --textconv :2_soma_tres_numero.bash [18ms]
+2024-05-10 23:30:56.800 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-10 23:31:01.837 [info] No remotes found in the git config file.
+2024-05-10 23:31:01.840 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:31:01.840 [info] > git config --get commit.template [19ms]
+2024-05-10 23:31:01.892 [info] > git status -z -uall [37ms]
+2024-05-10 23:31:02.137 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:31:02.137 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:31:06.929 [info] No remotes found in the git config file.
+2024-05-10 23:31:06.929 [info] > git config --get commit.template [19ms]
+2024-05-10 23:31:06.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:31:06.980 [info] > git status -z -uall [34ms]
+2024-05-10 23:31:09.721 [info] > git show --textconv :2_soma_tres_numero.bash [16ms]
+2024-05-10 23:31:09.722 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-10 23:31:50.468 [info] No remotes found in the git config file.
+2024-05-10 23:31:50.469 [info] > git config --get commit.template [17ms]
+2024-05-10 23:31:50.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:31:50.524 [info] > git status -z -uall [37ms]
+2024-05-10 23:32:44.716 [info] > git config --get commit.template [3ms]
+2024-05-10 23:32:44.732 [info] No remotes found in the git config file.
+2024-05-10 23:32:44.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:32:44.784 [info] > git status -z -uall [37ms]
+2024-05-10 23:34:00.938 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:34:00.938 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:35:41.199 [info] > git show --textconv :3_media_quatro_numeros.bash [34ms]
+2024-05-10 23:35:41.199 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-10 23:35:41.200 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [19ms]
+2024-05-10 23:35:41.565 [info] No remotes found in the git config file.
+2024-05-10 23:35:41.566 [info] > git config --get commit.template [17ms]
+2024-05-10 23:35:41.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:35:41.618 [info] > git status -z -uall [37ms]
+2024-05-10 23:35:42.685 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:35:42.685 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:35:46.270 [info] > git show --textconv :3_media_quatro_numeros.bash [17ms]
+2024-05-10 23:35:46.272 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [3ms]
+2024-05-10 23:35:47.294 [info] > git show --textconv :2_soma_tres_numero.bash [17ms]
+2024-05-10 23:35:47.295 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-10 23:35:50.744 [info] > git show --textconv :3_media_quatro_numeros.bash [17ms]
+2024-05-10 23:35:50.745 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [3ms]
+2024-05-10 23:35:56.735 [info] No remotes found in the git config file.
+2024-05-10 23:35:56.736 [info] > git config --get commit.template [17ms]
+2024-05-10 23:35:56.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:35:56.785 [info] > git status -z -uall [34ms]
+2024-05-10 23:36:04.059 [info] No remotes found in the git config file.
+2024-05-10 23:36:04.060 [info] > git config --get commit.template [17ms]
+2024-05-10 23:36:04.061 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:36:04.111 [info] > git status -z -uall [34ms]
+2024-05-10 23:36:09.132 [info] > git config --get commit.template [2ms]
+2024-05-10 23:36:09.148 [info] No remotes found in the git config file.
+2024-05-10 23:36:09.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:36:09.201 [info] > git status -z -uall [36ms]
+2024-05-10 23:36:14.235 [info] No remotes found in the git config file.
+2024-05-10 23:36:14.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:36:14.239 [info] > git config --get commit.template [20ms]
+2024-05-10 23:36:14.290 [info] > git status -z -uall [36ms]
+2024-05-10 23:36:19.325 [info] No remotes found in the git config file.
+2024-05-10 23:36:19.326 [info] > git config --get commit.template [17ms]
+2024-05-10 23:36:19.327 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:36:19.378 [info] > git status -z -uall [36ms]
+2024-05-10 23:36:24.410 [info] No remotes found in the git config file.
+2024-05-10 23:36:24.412 [info] > git config --get commit.template [17ms]
+2024-05-10 23:36:24.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:36:24.462 [info] > git status -z -uall [34ms]
+2024-05-10 23:36:29.496 [info] No remotes found in the git config file.
+2024-05-10 23:36:29.498 [info] > git config --get commit.template [15ms]
+2024-05-10 23:36:29.498 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:36:29.548 [info] > git status -z -uall [34ms]
+2024-05-10 23:36:34.584 [info] No remotes found in the git config file.
+2024-05-10 23:36:34.585 [info] > git config --get commit.template [17ms]
+2024-05-10 23:36:34.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:36:34.637 [info] > git status -z -uall [37ms]
+2024-05-10 23:36:54.150 [info] No remotes found in the git config file.
+2024-05-10 23:36:54.151 [info] > git config --get commit.template [18ms]
+2024-05-10 23:36:54.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:36:54.201 [info] > git status -z -uall [35ms]
+2024-05-10 23:36:59.237 [info] No remotes found in the git config file.
+2024-05-10 23:36:59.238 [info] > git config --get commit.template [17ms]
+2024-05-10 23:36:59.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:36:59.288 [info] > git status -z -uall [35ms]
+2024-05-10 23:37:04.324 [info] No remotes found in the git config file.
+2024-05-10 23:37:04.325 [info] > git config --get commit.template [17ms]
+2024-05-10 23:37:04.326 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:37:04.375 [info] > git status -z -uall [35ms]
+2024-05-10 23:37:38.451 [info] No remotes found in the git config file.
+2024-05-10 23:37:38.453 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:37:38.454 [info] > git config --get commit.template [19ms]
+2024-05-10 23:37:38.503 [info] > git status -z -uall [35ms]
+2024-05-10 23:38:38.888 [info] No remotes found in the git config file.
+2024-05-10 23:38:38.889 [info] > git config --get commit.template [17ms]
+2024-05-10 23:38:38.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:38:38.939 [info] > git status -z -uall [35ms]
+2024-05-10 23:38:52.496 [info] No remotes found in the git config file.
+2024-05-10 23:38:52.497 [info] > git config --get commit.template [16ms]
+2024-05-10 23:38:52.498 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:38:52.546 [info] > git status -z -uall [34ms]
+2024-05-10 23:38:57.580 [info] No remotes found in the git config file.
+2024-05-10 23:38:57.581 [info] > git config --get commit.template [17ms]
+2024-05-10 23:38:57.582 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:38:57.631 [info] > git status -z -uall [34ms]
+2024-05-10 23:39:02.665 [info] No remotes found in the git config file.
+2024-05-10 23:39:02.666 [info] > git config --get commit.template [17ms]
+2024-05-10 23:39:02.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:39:02.715 [info] > git status -z -uall [35ms]
+2024-05-10 23:39:16.775 [info] No remotes found in the git config file.
+2024-05-10 23:39:16.793 [info] > git config --get commit.template [19ms]
+2024-05-10 23:39:16.793 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:39:16.845 [info] > git status -z -uall [35ms]
+2024-05-10 23:40:47.977 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-10 23:40:48.056 [info] > git show --textconv :4_calcula_area.bash [16ms]
+2024-05-10 23:40:48.057 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [3ms]
+2024-05-10 23:40:48.417 [info] No remotes found in the git config file.
+2024-05-10 23:40:48.419 [info] > git config --get commit.template [16ms]
+2024-05-10 23:40:48.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:40:48.468 [info] > git status -z -uall [35ms]
+2024-05-10 23:41:14.154 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 23:41:14.154 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:42:45.401 [info] > git show --textconv :4_calcula_area.bash [19ms]
+2024-05-10 23:42:45.402 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [4ms]
+2024-05-10 23:42:48.036 [info] > git show --textconv :3_media_quatro_numeros.bash [17ms]
+2024-05-10 23:42:48.038 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [3ms]
+2024-05-10 23:42:55.903 [info] > git show --textconv :4_calcula_area.bash [17ms]
+2024-05-10 23:42:55.904 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [3ms]
+2024-05-10 23:42:59.307 [info] No remotes found in the git config file.
+2024-05-10 23:42:59.309 [info] > git config --get commit.template [16ms]
+2024-05-10 23:42:59.309 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:42:59.357 [info] > git status -z -uall [34ms]
+2024-05-10 23:43:08.615 [info] No remotes found in the git config file.
+2024-05-10 23:43:08.616 [info] > git config --get commit.template [15ms]
+2024-05-10 23:43:08.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:43:08.665 [info] > git status -z -uall [34ms]
+2024-05-10 23:43:14.361 [info] No remotes found in the git config file.
+2024-05-10 23:43:14.362 [info] > git config --get commit.template [16ms]
+2024-05-10 23:43:14.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:43:14.414 [info] > git status -z -uall [38ms]
+2024-05-10 23:43:19.434 [info] > git config --get commit.template [3ms]
+2024-05-10 23:43:19.448 [info] No remotes found in the git config file.
+2024-05-10 23:43:19.450 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-05-10 23:43:19.500 [info] > git status -z -uall [31ms]
+2024-05-10 23:43:28.777 [info] No remotes found in the git config file.
+2024-05-10 23:43:28.778 [info] > git config --get commit.template [17ms]
+2024-05-10 23:43:28.778 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:43:28.827 [info] > git status -z -uall [34ms]
+2024-05-10 23:44:13.630 [info] No remotes found in the git config file.
+2024-05-10 23:44:13.631 [info] > git config --get commit.template [16ms]
+2024-05-10 23:44:13.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:44:13.682 [info] > git status -z -uall [35ms]
+2024-05-10 23:44:19.662 [info] > git show --textconv :3_media_quatro_numeros.bash [16ms]
+2024-05-10 23:44:19.663 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [3ms]
+2024-05-10 23:44:34.020 [info] No remotes found in the git config file.
+2024-05-10 23:44:34.021 [info] > git config --get commit.template [17ms]
+2024-05-10 23:44:34.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:44:34.073 [info] > git status -z -uall [37ms]
+2024-05-10 23:44:39.094 [info] > git config --get commit.template [2ms]
+2024-05-10 23:44:39.110 [info] No remotes found in the git config file.
+2024-05-10 23:44:39.112 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:44:39.160 [info] > git status -z -uall [34ms]
+2024-05-10 23:45:11.271 [info] No remotes found in the git config file.
+2024-05-10 23:45:11.271 [info] > git config --get commit.template [18ms]
+2024-05-10 23:45:11.273 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:45:11.323 [info] > git status -z -uall [35ms]
+2024-05-10 23:45:16.636 [info] > git show --textconv :2_soma_tres_numero.bash [17ms]
+2024-05-10 23:45:16.638 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [4ms]
+2024-05-10 23:45:29.868 [info] No remotes found in the git config file.
+2024-05-10 23:45:29.870 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:45:29.871 [info] > git config --get commit.template [20ms]
+2024-05-10 23:45:29.920 [info] > git status -z -uall [34ms]
+2024-05-10 23:45:34.953 [info] No remotes found in the git config file.
+2024-05-10 23:45:34.955 [info] > git config --get commit.template [16ms]
+2024-05-10 23:45:34.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:45:35.006 [info] > git status -z -uall [37ms]
+2024-05-10 23:45:39.355 [info] > git show --textconv :3_media_quatro_numeros.bash [17ms]
+2024-05-10 23:45:39.356 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [3ms]
+2024-05-10 23:45:40.042 [info] No remotes found in the git config file.
+2024-05-10 23:45:40.043 [info] > git config --get commit.template [16ms]
+2024-05-10 23:45:40.043 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:45:40.094 [info] > git status -z -uall [36ms]
+2024-05-10 23:45:49.015 [info] > git show --textconv :2_soma_tres_numero.bash [16ms]
+2024-05-10 23:45:49.017 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [3ms]
+2024-05-10 23:45:49.146 [info] No remotes found in the git config file.
+2024-05-10 23:45:49.147 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:45:49.148 [info] > git config --get commit.template [21ms]
+2024-05-10 23:45:49.197 [info] > git status -z -uall [35ms]
+2024-05-10 23:46:05.196 [info] No remotes found in the git config file.
+2024-05-10 23:46:05.197 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-05-10 23:46:05.197 [info] > git config --get commit.template [18ms]
+2024-05-10 23:46:05.246 [info] > git status -z -uall [34ms]
+2024-05-10 23:46:30.095 [info] No remotes found in the git config file.
+2024-05-10 23:46:30.096 [info] > git config --get commit.template [17ms]
+2024-05-10 23:46:30.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:46:30.147 [info] > git status -z -uall [34ms]
+2024-05-10 23:46:36.739 [info] No remotes found in the git config file.
+2024-05-10 23:46:36.740 [info] > git config --get commit.template [17ms]
+2024-05-10 23:46:36.741 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:46:36.790 [info] > git status -z -uall [35ms]
+2024-05-10 23:46:42.080 [info] > git config --get commit.template [3ms]
+2024-05-10 23:46:42.096 [info] No remotes found in the git config file.
+2024-05-10 23:46:42.098 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:46:42.156 [info] > git status -z -uall [43ms]
+2024-05-10 23:46:48.413 [info] No remotes found in the git config file.
+2024-05-10 23:46:48.415 [info] > git config --get commit.template [18ms]
+2024-05-10 23:46:48.415 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:46:48.465 [info] > git status -z -uall [35ms]
+2024-05-10 23:46:53.500 [info] No remotes found in the git config file.
+2024-05-10 23:46:53.501 [info] > git config --get commit.template [17ms]
+2024-05-10 23:46:53.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:46:53.551 [info] > git status -z -uall [35ms]
+2024-05-10 23:46:58.573 [info] > git config --get commit.template [4ms]
+2024-05-10 23:46:58.589 [info] No remotes found in the git config file.
+2024-05-10 23:46:58.590 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:46:58.640 [info] > git status -z -uall [35ms]
+2024-05-10 23:47:02.311 [info] > git show --textconv :4_calcula_area.bash [18ms]
+2024-05-10 23:47:02.313 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [4ms]
+2024-05-10 23:47:11.897 [info] No remotes found in the git config file.
+2024-05-10 23:47:11.899 [info] > git config --get commit.template [18ms]
+2024-05-10 23:47:11.899 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:47:11.950 [info] > git status -z -uall [35ms]
+2024-05-10 23:47:16.985 [info] No remotes found in the git config file.
+2024-05-10 23:47:16.987 [info] > git config --get commit.template [18ms]
+2024-05-10 23:47:16.987 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:47:17.038 [info] > git status -z -uall [36ms]
+2024-05-10 23:47:22.075 [info] No remotes found in the git config file.
+2024-05-10 23:47:22.076 [info] > git config --get commit.template [19ms]
+2024-05-10 23:47:22.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:47:22.128 [info] > git status -z -uall [36ms]
+2024-05-10 23:47:27.162 [info] No remotes found in the git config file.
+2024-05-10 23:47:27.164 [info] > git config --get commit.template [18ms]
+2024-05-10 23:47:27.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:47:27.220 [info] > git status -z -uall [36ms]
+2024-05-10 23:47:30.617 [info] > git show --textconv :3_media_quatro_numeros.bash [20ms]
+2024-05-10 23:47:30.618 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/3_media_quatro_numeros.bash [6ms]
+2024-05-10 23:47:32.254 [info] No remotes found in the git config file.
+2024-05-10 23:47:32.255 [info] > git config --get commit.template [17ms]
+2024-05-10 23:47:32.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:47:32.304 [info] > git status -z -uall [35ms]
+2024-05-10 23:47:34.088 [info] > git show --textconv :4_calcula_area.bash [19ms]
+2024-05-10 23:47:34.089 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [4ms]
+2024-05-10 23:47:37.032 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:47:37.032 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:47:40.525 [info] > git show --textconv :4_calcula_area.bash [18ms]
+2024-05-10 23:47:40.527 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [3ms]
+2024-05-10 23:48:09.026 [info] No remotes found in the git config file.
+2024-05-10 23:48:09.027 [info] > git config --get commit.template [17ms]
+2024-05-10 23:48:09.028 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:48:09.079 [info] > git status -z -uall [37ms]
+2024-05-10 23:48:48.122 [info] No remotes found in the git config file.
+2024-05-10 23:48:48.123 [info] > git config --get commit.template [17ms]
+2024-05-10 23:48:48.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:48:48.175 [info] > git status -z -uall [35ms]
+2024-05-10 23:49:27.541 [info] > git show --textconv :2_soma_tres_numero.bash [16ms]
+2024-05-10 23:49:27.543 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [2ms]
+2024-05-10 23:49:28.505 [info] > git check-ignore -v -z --stdin [33ms]
+2024-05-10 23:49:28.505 [info] > git show --textconv :5_calcula_circulo.bash [17ms]
+2024-05-10 23:49:28.507 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/5_calcula_circulo.bash [4ms]
+2024-05-10 23:49:28.859 [info] No remotes found in the git config file.
+2024-05-10 23:49:28.860 [info] > git config --get commit.template [18ms]
+2024-05-10 23:49:28.861 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:49:28.910 [info] > git status -z -uall [35ms]
+2024-05-10 23:49:30.306 [info] > git show --textconv :4_calcula_area.bash [18ms]
+2024-05-10 23:49:30.307 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [3ms]
+2024-05-10 23:49:37.135 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 23:49:37.135 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:49:38.616 [info] > git show --textconv :4_calcula_area.bash [16ms]
+2024-05-10 23:49:38.618 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/4_calcula_area.bash [3ms]
+2024-05-10 23:49:39.772 [info] > git show --textconv :5_calcula_circulo.bash [17ms]
+2024-05-10 23:49:39.773 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/5_calcula_circulo.bash [3ms]
+2024-05-10 23:49:43.075 [info] No remotes found in the git config file.
+2024-05-10 23:49:43.076 [info] > git config --get commit.template [18ms]
+2024-05-10 23:49:43.077 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:49:43.129 [info] > git status -z -uall [37ms]
+2024-05-10 23:49:48.173 [info] No remotes found in the git config file.
+2024-05-10 23:49:48.175 [info] > git config --get commit.template [23ms]
+2024-05-10 23:49:48.177 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-05-10 23:49:48.229 [info] > git status -z -uall [36ms]
+2024-05-10 23:49:53.267 [info] No remotes found in the git config file.
+2024-05-10 23:49:53.268 [info] > git config --get commit.template [18ms]
+2024-05-10 23:49:53.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:49:53.319 [info] > git status -z -uall [34ms]
+2024-05-10 23:49:58.353 [info] No remotes found in the git config file.
+2024-05-10 23:49:58.354 [info] > git config --get commit.template [15ms]
+2024-05-10 23:49:58.355 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:49:58.406 [info] > git status -z -uall [36ms]
+2024-05-10 23:50:03.441 [info] No remotes found in the git config file.
+2024-05-10 23:50:03.442 [info] > git config --get commit.template [18ms]
+2024-05-10 23:50:03.443 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:50:03.493 [info] > git status -z -uall [35ms]
+2024-05-10 23:50:08.530 [info] No remotes found in the git config file.
+2024-05-10 23:50:08.531 [info] > git config --get commit.template [17ms]
+2024-05-10 23:50:08.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:50:08.580 [info] > git status -z -uall [35ms]
+2024-05-10 23:50:17.788 [info] No remotes found in the git config file.
+2024-05-10 23:50:17.790 [info] > git config --get commit.template [17ms]
+2024-05-10 23:50:17.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:50:17.842 [info] > git status -z -uall [37ms]
+2024-05-10 23:50:22.880 [info] No remotes found in the git config file.
+2024-05-10 23:50:22.881 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:50:22.882 [info] > git config --get commit.template [20ms]
+2024-05-10 23:50:22.932 [info] > git status -z -uall [35ms]
+2024-05-10 23:51:03.045 [info] No remotes found in the git config file.
+2024-05-10 23:51:03.046 [info] > git config --get commit.template [17ms]
+2024-05-10 23:51:03.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:51:03.095 [info] > git status -z -uall [34ms]
+2024-05-10 23:51:27.520 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:51:27.520 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:53:58.309 [info] > git show --textconv :5_calcula_circulo.bash [16ms]
+2024-05-10 23:53:58.311 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/5_calcula_circulo.bash [2ms]
+2024-05-10 23:54:05.346 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:54:05.346 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:54:22.888 [info] > git show --textconv :5_calcula_circulo.bash [16ms]
+2024-05-10 23:54:22.889 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/5_calcula_circulo.bash [3ms]
+2024-05-10 23:54:26.426 [info] No remotes found in the git config file.
+2024-05-10 23:54:26.428 [info] > git config --get commit.template [16ms]
+2024-05-10 23:54:26.428 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:54:26.477 [info] > git status -z -uall [34ms]
+2024-05-10 23:55:13.248 [info] No remotes found in the git config file.
+2024-05-10 23:55:13.249 [info] > git config --get commit.template [17ms]
+2024-05-10 23:55:13.251 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:55:13.300 [info] > git status -z -uall [35ms]
+2024-05-10 23:55:46.122 [info] > git show --textconv :2_soma_tres_numero.bash [19ms]
+2024-05-10 23:55:46.123 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/2_soma_tres_numero.bash [4ms]
+2024-05-10 23:55:47.759 [info] > git check-ignore -v -z --stdin [6ms]
+2024-05-10 23:55:48.027 [info] > git show --textconv :6_recebe_numero_tabuada.bash [19ms]
+2024-05-10 23:55:48.029 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [4ms]
+2024-05-10 23:55:48.245 [info] No remotes found in the git config file.
+2024-05-10 23:55:48.247 [info] > git config --get commit.template [16ms]
+2024-05-10 23:55:48.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:55:48.296 [info] > git status -z -uall [35ms]
+2024-05-10 23:55:49.659 [info] > git show --textconv :5_calcula_circulo.bash [19ms]
+2024-05-10 23:55:49.661 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/5_calcula_circulo.bash [4ms]
+2024-05-10 23:55:58.047 [info] > git show --textconv :6_recebe_numero_tabuada.bash [16ms]
+2024-05-10 23:55:58.049 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [3ms]
+2024-05-10 23:56:01.525 [info] No remotes found in the git config file.
+2024-05-10 23:56:01.526 [info] > git config --get commit.template [21ms]
+2024-05-10 23:56:01.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:56:01.577 [info] > git status -z -uall [35ms]
+2024-05-10 23:56:10.980 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:56:10.981 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:56:15.711 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:56:15.711 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:56:24.386 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:56:24.386 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:57:09.668 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-10 23:57:09.668 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:57:15.322 [info] > git show --textconv :6_recebe_numero_tabuada.bash [17ms]
+2024-05-10 23:57:15.323 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [3ms]
+2024-05-10 23:57:28.465 [info] > git config --get commit.template [2ms]
+2024-05-10 23:57:28.480 [info] No remotes found in the git config file.
+2024-05-10 23:57:28.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:57:28.531 [info] > git status -z -uall [35ms]
+2024-05-10 23:57:33.566 [info] No remotes found in the git config file.
+2024-05-10 23:57:33.567 [info] > git config --get commit.template [16ms]
+2024-05-10 23:57:33.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:57:33.616 [info] > git status -z -uall [34ms]
+2024-05-10 23:57:35.837 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-10 23:57:35.837 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:57:43.108 [info] > git show --textconv :6_recebe_numero_tabuada.bash [17ms]
+2024-05-10 23:57:43.111 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [5ms]
+2024-05-10 23:57:46.465 [info] No remotes found in the git config file.
+2024-05-10 23:57:46.466 [info] > git config --get commit.template [18ms]
+2024-05-10 23:57:46.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:57:46.517 [info] > git status -z -uall [36ms]
+2024-05-10 23:57:55.367 [info] No remotes found in the git config file.
+2024-05-10 23:57:55.368 [info] > git config --get commit.template [17ms]
+2024-05-10 23:57:55.368 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:57:55.418 [info] > git status -z -uall [36ms]
+2024-05-10 23:58:00.670 [info] No remotes found in the git config file.
+2024-05-10 23:58:00.671 [info] > git config --get commit.template [16ms]
+2024-05-10 23:58:00.673 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:58:00.725 [info] > git status -z -uall [36ms]
+2024-05-10 23:58:07.219 [info] No remotes found in the git config file.
+2024-05-10 23:58:07.219 [info] > git config --get commit.template [19ms]
+2024-05-10 23:58:07.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:58:07.271 [info] > git status -z -uall [36ms]
+2024-05-10 23:58:26.411 [info] No remotes found in the git config file.
+2024-05-10 23:58:26.412 [info] > git config --get commit.template [16ms]
+2024-05-10 23:58:26.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-10 23:58:26.462 [info] > git status -z -uall [35ms]
+2024-05-10 23:59:13.899 [info] No remotes found in the git config file.
+2024-05-10 23:59:13.901 [info] > git config --get commit.template [18ms]
+2024-05-10 23:59:13.901 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:59:13.955 [info] > git status -z -uall [36ms]
+2024-05-10 23:59:32.029 [info] No remotes found in the git config file.
+2024-05-10 23:59:32.031 [info] > git config --get commit.template [18ms]
+2024-05-10 23:59:32.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-10 23:59:32.083 [info] > git status -z -uall [36ms]
+2024-05-10 23:59:37.117 [info] No remotes found in the git config file.
+2024-05-10 23:59:37.118 [info] > git config --get commit.template [17ms]
+2024-05-10 23:59:37.119 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:59:37.167 [info] > git status -z -uall [35ms]
+2024-05-10 23:59:43.186 [info] No remotes found in the git config file.
+2024-05-10 23:59:43.188 [info] > git config --get commit.template [17ms]
+2024-05-10 23:59:43.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-10 23:59:43.239 [info] > git status -z -uall [36ms]
+2024-05-10 23:59:49.706 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-10 23:59:49.706 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-10 23:59:56.218 [info] > git show --textconv :6_recebe_numero_tabuada.bash [16ms]
+2024-05-10 23:59:56.220 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/6_recebe_numero_tabuada.bash [2ms]
+2024-05-11 00:00:25.671 [info] > git show --textconv :7_formula_bhaskara.bash [34ms]
+2024-05-11 00:00:25.672 [info] > git check-ignore -v -z --stdin [3ms]
+2024-05-11 00:00:25.673 [info] > git ls-files --stage -- /home/matheuspedroso5931/Tests/7_formula_bhaskara.bash [19ms]
+2024-05-11 00:00:25.747 [info] No remotes found in the git config file.
+2024-05-11 00:00:25.749 [info] > git config --get commit.template [16ms]
+2024-05-11 00:00:25.749 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-11 00:00:25.798 [info] > git status -z -uall [35ms]

@@ -1,0 +1,7 @@
+2024-05-11 00:22:36.392 [info] Extension host with pid 17325 started
+2024-05-11 00:22:36.442 [info] Lock '/home/matheuspedroso5931/.codeoss/data/User/workspaceStorage/-32165b47/vscode.lock': Lock acquired.
+2024-05-11 00:22:36.680 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-11 00:22:37.151 [info] ExtensionService#_doActivateExtension redhat.fabric8-analytics, startup: true, activationEvent: 'workspaceContains:**/package.json,**/pom.xml,**/requirements.txt,**/go.mod'
+2024-05-11 00:22:38.535 [info] Extension host terminating: received terminate message from renderer
+2024-05-11 00:22:38.536 [info] Lock '/home/matheuspedroso5931/.codeoss/data/User/workspaceStorage/-32165b47/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-11 00:22:38.537 [info] Extension host with pid 17325 exiting with code 0
