@@ -285,3 +285,7 @@ git remote add origin https://github.com/pedrosomatheus/So2.git
 git remote set-url origin https://github.com/pedrosomatheus/So2.git
 git push -u origin main
 dir
+git add .
+git commit -m "Subindo arquivos de shell script"
+git commit -m "Subindo arquivos de shell script e bash"
+git commit -m "Adicionados arquivos e pastas que estavam faltando"
